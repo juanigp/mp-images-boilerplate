@@ -1,4 +1,4 @@
-# mp-images-bolierplate
+# mp-images-boilerplate
 Boilerplate code useful when you need to apply some processing steps to a folder of images
 
 Just edit ```process_folder.py``` and then call
